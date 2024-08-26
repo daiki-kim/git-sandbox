@@ -1,6 +1,6 @@
 # git-sandbox
 
-Welcome to the Sample Project! This project is designed to help you get started with basic Git operations. You'll be able to practice cloning, forking, branching, committing, and more. Let's dive in!
+I also change here but it will conflict...
 
 ## Table of Contents
 
